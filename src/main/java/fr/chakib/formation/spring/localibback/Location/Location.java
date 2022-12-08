@@ -28,5 +28,5 @@ public class Location {
     private Locataire locataire;
 
     @DBRef
-    private Voiture vehicule;
+    private Voiture voiture;
 }

@@ -17,8 +17,13 @@ public class VoitureController {
 
     @GetMapping("")
     public List<Voiture> findAll() {
+
         return voitureService.findAll();
+
     }
+
+    @GetMapping("recherche")
+
 
     @PostMapping("")
     public Voiture save(@RequestBody Voiture entity) {
