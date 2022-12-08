@@ -35,11 +35,15 @@ http://localhost:8080/locataires
  }
     
 http://localhost:8080/locations
+
+
+
 {
         "dateDepart":"2000-11-08",
          "dateFin":"2000-11-10",
          "prixLocation": "120",
           "locataire":"",
-          "voiture": ""
+            "voiture": ""
           
+
 }
