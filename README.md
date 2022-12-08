@@ -12,7 +12,6 @@ pour ajouter supprimer modifier : (les locataires / voitures / locations)
 
 aller sur Postman (format json )http://localhost:8080
 http://localhost:8080/voitures 
-
 {
     
     "marque": "renault",
@@ -22,20 +21,19 @@ http://localhost:8080/voitures
     "vdisponible": "Vdisponible"
 }
         
-                  
 http://localhost:8080/locataires
                   
-       {
+ {
       
-        "nom": "ndd",
-        "prenom": "ddBapt4848iste",
-        "dateNaissance": "1995-12-15",
-        "email": "nl@gma545il.com",
-        "numerosTelephone": "06ss606060606"
-    }
+ "nom": "ndd",
+ "prenom": "ddBapt4848iste",
+ "dateNaissance": "1995-12-15",
+ "email": "nl@gma545il.com",
+ "numerosTelephone": "06ss606060606"
+ }
     
 http://localhost:8080/locations
-               {
+{
     "dateDepart":"2000-11-08",
     "dateFin":"2000-11-10",
     "prixLocation": "120",
