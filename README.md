@@ -19,24 +19,27 @@ http://localhost:8080/voitures
     "model": "xmas4545",
     "prix": "120000",
     "vdisponible": "Vdisponible"
+    
 }
         
 http://localhost:8080/locataires
                   
  {
       
- "nom": "ndd",
- "prenom": "ddBapt4848iste",
- "dateNaissance": "1995-12-15",
- "email": "nl@gma545il.com",
- "numerosTelephone": "06ss606060606"
+      "nom": "fred",
+        "prenom": "baptiste",
+       "dateNaissance": "1995-11-15",
+         "email": "nl@gma545il.com",
+         "numerosTelephone": "0615124758"
+         
  }
     
 http://localhost:8080/locations
 {
-    "dateDepart":"2000-11-08",
-    "dateFin":"2000-11-10",
-    "prixLocation": "120",
-    "locataire":"",
-    "voiture": ""
+        "dateDepart":"2000-11-08",
+         "dateFin":"2000-11-10",
+         "prixLocation": "120",
+          "locataire":"",
+          "voiture": ""
+          
 }
